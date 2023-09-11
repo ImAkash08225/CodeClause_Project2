@@ -1,0 +1,71 @@
+
+.logo {
+    background-color: rgb(10, 10, 10);
+    border: none;
+    border-radius: 60px;
+    color: white;
+    padding-left: 18px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    width: 275px;
+    height: 38px;
+    position:relative;
+    
+}
+.logo-facebook{
+    background-color: rgb(7, 7, 226);
+    color: white;
+    width: 275px;
+    height: 38px;
+    border-radius: 19px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.15s;
+    margin-right: 8px;
+    margin-top:10px;
+}
+.logo-google{
+    border-color: rgb(7, 62, 179);
+    border-width: 2px;
+    border-radius: 60px;
+    border-style: solid;
+    color: rgb(7, 62, 179);
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    cursor: pointer;
+    transition: 0.15s;
+    margin-right: 8px;
+    width: 275px;
+    height: 38px;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #414142;
+}
+.container{
+    background-color: white;
+    padding:60px;
+    border-radius: 18px;
+}
+.buttons{
+    margin-left:55px;
+}
+img {
+    
+height: 25px;
+border-color: white;
+
+
+
+}
